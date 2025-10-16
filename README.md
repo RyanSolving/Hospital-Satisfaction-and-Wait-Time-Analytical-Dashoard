@@ -8,9 +8,8 @@ This dashboard provides hospital managers with monthly insights into patient sat
 
 ⚙️ **Data Pipeline**
 
-T-SQL (SQL Server): Extracted, cleaned, and transformed raw patient data.
-
-Power BI: Modeled data and built an interactive dashboard for KPI tracking and trend analysis.
+- T-SQL (SQL Server): Extracted, cleaned, and transformed raw patient data.
+- Power BI: Modeled data and built an interactive dashboard for KPI tracking and trend analysis.
 
 💡 **Key Insights (Sep 2020)** 
 
