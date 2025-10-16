@@ -20,3 +20,5 @@ Power BI: Modeled data and built an interactive dashboard for KPI tracking and t
 
 🎯 **Outcome**
 Enabled data-driven decision-making for hospital management to improve patient experience and maintain performance-based funding.
+
+![Hospital Dashboard](https://github.com/RyanSolving/Hospital-Satisfaction-and-Wait-Time-Analytical-Dashoard/blob/main/Main.png?raw=true)
