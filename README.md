@@ -20,4 +20,11 @@ This dashboard provides hospital managers with monthly insights into patient sat
 🎯 **Outcome**
 Enabled data-driven decision-making for hospital management to improve patient experience and maintain performance-based funding.
 
-![Hospital Dashboard](https://github.com/RyanSolving/Hospital-Satisfaction-and-Wait-Time-Analytical-Dashoard/blob/main/Main%20report.png?raw=true)
+
+### 📷 Dashboard Preview
+
+#### Summary Page
+![Hospital Dashboard Overview](https://github.com/RyanSolving/Hospital-Satisfaction-and-Wait-Time-Analytical-Dashoard/blob/main/Overview_2.png)
+
+#### Metrics Breakdown
+![Hospital Dashboard Metrics Breakdown](https://github.com/RyanSolving/Hospital-Satisfaction-and-Wait-Time-Analytical-Dashoard/blob/main/Metrics%20breakdown_2.png)
